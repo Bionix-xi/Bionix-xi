@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lderuijter
+- 👋 Hi, I’m Lucas
 - 👀 I’m interested in learning about the most recent changes in programming
-- 🌱 I’m currently learning Java, Hibernate, Struts 2, PHP, HTML and CSS
-- 📫 How to reach me: https://www.lucasderuijter.nl/portfolio_website
+- 🌱 I’m currently learning Java, Hibernate, HTML, CSS and JavaScript
+- 📫 How to reach me: github@lucasderuijter.nl
 
 <!---
 Bionix-xi/Bionix-xi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
